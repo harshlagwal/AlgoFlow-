@@ -1,0 +1,79 @@
+{
+  "name": "algoflow",
+  "displayName": "AlgoFlow",
+  "description": "Visual Algorithms Made Simple",
+  "version": "0.1.0",
+  "publisher": "harshlagwal",
+  "icon": "media/logo.png",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Education",
+    "Visualization",
+    "Programming Languages"
+  ],
+  "activationEvents": [
+    "onLanguage:python",
+    "onLanguage:java",
+    "onLanguage:c",
+    "onLanguage:cpp",
+    "onLanguage:javascript",
+    "onLanguage:typescript",
+    "onLanguage:r"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "algoflow.visualize",
+        "title": "AlgoFlow: Visualize Code Selection",
+        "category": "AlgoFlow"
+      }
+    ],
+    "menus": {
+      "editor/context": [
+        {
+          "command": "algoflow.visualize",
+          "group": "navigation",
+          "when": "editorHasSelection"
+        }
+      ]
+    },
+    "viewsContainers": {
+      "activitybar": [
+        {
+          "id": "algoflow-explorer",
+          "title": "AlgoFlow",
+          "icon": "media/icon.svg"
+        }
+      ]
+    },
+    "views": {
+      "algoflow-explorer": [
+        {
+          "type": "webview",
+          "id": "algoflow.sidebar",
+          "name": "AlgoFlow Control Center",
+          "icon": "$(settings-gear)"
+        }
+      ]
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "pretest": "npm run compile && npm run lint",
+    "lint": "eslint src --ext ts",
+    "test": "node ./out/test/runTest.js"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.85.0",
+    "@types/node": "18.x",
+    "@typescript-eslint/eslint-plugin": "^6.x",
+    "@typescript-eslint/parser": "^6.x",
+    "eslint": "^8.x",
+    "typescript": "^5.x"
+  }
+}

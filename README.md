@@ -12,18 +12,29 @@ Instead of just reading code, you can **watch it alive**. AlgoFlow provides step
 
 ---
 
-## ✨ Key Features
+## 🎥 Video Tutorials
 
-*   🎯 **Code → Flowchart**: Instantly convert code snippets into professional flowcharts.
-*   ▶️ **Execution Control**: Play, Pause, Step-through, or Restart your logic at any time.
-*   🔁 **Loop Animations**: See exactly how loops repeat and where they exit.
-*   🔵 **Dynamic Flow**: Animated arrows indicate the current direction of execution (forward and loop-back).
-*   🧠 **Student-Friendly Explanations**: A virtual guide explains what each line does in simple English.
-*   📊 **Complexity Intelligence**: Block-level Time and Space complexity analysis.
-*   🧾 **Complexity Sticky Notes**: View detailed analysis by clicking nodes or the complexity icon.
-*   ⬇️ **Export as SVG**: Download your flowcharts for inclusion in notes or assignments.
-*   ⚡ **Adaptive Speed**: Choose from Slow, Normal, or Fast execution speeds to match your learning pace.
-*   🌓 **Modern UI**: A clean, distraction-free interface built for focus.
+Watch AlgoFlow in action! These animations show how you can transform your learning experience.
+
+![Tutorial 1 – Visualizing Code](https://i.postimg.cc/zXJJrMtY/Algo-Flow-Visualize.gif)
+*Instantly convert complex logic into animated, step-by-step flowcharts.*
+
+![Tutorial 2 – Build Project](https://i.postimg.cc/x1XVjSKS/Algo-Flow-Buid-Project-2.gif)
+*See how to structure your project and navigate the AlgoFlow interface.*
+
+---
+
+## ✨ Key Features in Detail
+
+*   🎨 **Real-Time Visualization**: Just select your code and right-click. AlgoFlow creates a clean, SVG-based flowchart that accurately represents your logic branches and loops.
+*   �️ **Interactive Control Center**: 
+    *   **Play/Pause**: Run the entire algorithm animation automatically.
+    *   **Step Discovery**: Go line-by-line to see exactly which variable changes when.
+    *   **Speed Control**: Switch between Slow (for deep learning) and Fast (for quick overviews).
+*   � **Loop Intelligence**: Visualizes loop-backs with animated arrows and iteration counters. No more guessing how many times your code repeats!
+*   � **Embedded Teacher Persona**: A cartoon avatar explains the "Why" behind every step, helping you understand concepts like recursion and conditional branching in plain English.
+*   💾 **Export & Share**: Download any flowchart as a high-quality SVG file. Perfect for college assignments, technical blogs, or study notes.
+*   📊 **Complexity Intelligence Engine**: Built-in Big-O analysis for both Time and Space. It identifies loops, nested structures, and recursion patterns to help you write more efficient code.
 
 ---
 
@@ -35,21 +46,6 @@ Instead of just reading code, you can **watch it alive**. AlgoFlow provides step
 4.  Observe the **flowchart** and follow the **avatar's explanations**.
 5.  Check the **Complexity Sticky Note** for a deep dive into efficiency.
 6.  **Download** the SVG if you want to save the visualization.
-
----
-
-## 🎥 Video Tutorials
-
-Reserve space for our quick-start guides:
-
-![Tutorial 1 – Visualizing Code](VIDEO_LINK_1)
-*Initial setup and your first visualization.*
-
-![Tutorial 2 – Loop Execution](VIDEO_LINK_2)
-*Understanding recursion and nested loops visually.*
-
-![Tutorial 3 – Complexity Analysis](VIDEO_LINK_3)
-*How to use the Complexity Intelligence Engine.*
 
 ---
 

@@ -27,6 +27,8 @@ Whether you're struggling with nested loops, recursion, or just want to understa
 ## ✨ Key Features
 
 - 🎨 **Real-Time Flowcharts**: Select any block of code and generate a clean, professional flowchart instantly.
+- 🏗️ **Smart Project Builder**: Jumpstart your development by building complete project structures for Node.js, Python, and more with a single click.
+- 🤖 **AI Context Assistant**: Instantly copy your entire project or folder context to give to your favorite AI (ChatGPT, Claude, Gemini) for faster debugging and code generation.
 - 🧠 **Student-First Explanations**: Features a friendly "Teacher Persona" avatar that explains logic in plain English, perfect for clearing those "Ohhh, now I get it!" moments.
 - 📊 **Complexity Intelligence**: Automatic analysis of Time and Space complexity ($O(n)$, $O(log n)$, etc.) with simplified reasoning.
 - 🕹️ **Execution Control**: Play, Pause, and Step through your code logic at your own pace.

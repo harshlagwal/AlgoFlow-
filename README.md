@@ -1,67 +1,65 @@
 # ![AlgoFlow Logo](./media/logo.png)
 
-## 🚀 Visualize Your Logic, Master Your Algorithms
+# AlgoFlow
+### Visual Algorithms Made Simple
 
-**AlgoFlow** is an open-source VS Code extension built for **students, beginners, and B.Tech freshers** who want to stop "guessing" how their code works and start *seeing* it.
-
-Whether you're struggling with nested loops, recursion, or just want to understand the flow of a new script, AlgoFlow transforms your static code into **dynamic, step-by-step flowcharts** and provides a **Complexity Intelligence Engine** to help you write professional-grade code from day one.
-
----
-
-## 🎥 Demo Videos (AlgoFlow in Action)
-
-### 1. Visualize Selected Logic
-![Visualize Logic](./assets/AlgoFlow_Visualize.gif)
-*Instantly transform any code selection into an interactive flowchart. Watch how the execution moves through conditions and loops in real-time.*
-
-### 2. Build Projects with Confidence
-![Build Project](./assets/AlgoFlow_Build_Project.gif)
-*Seamlessly integrate AlgoFlow into your development workflow. See how it handles multi-file structures and project-wide logic visualization.*
-
-### 3. Complexity Intelligence Engine
-![Complexity Analysis](./assets/AlgoFlow_Complexity.gif)
-*Get instant Big-O analysis for your code. Our student-friendly engine explains not just the 'what' (Time & Space complexity) but also the 'why'.*
+**AlgoFlow** is a powerful educational tool designed to help students and beginners master algorithms by seeing them in action. We transform complex logic into clear, animated flowcharts that bridge the gap between abstract code and visual understanding.
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
-- 🎨 **Real-Time Flowcharts**: Select any block of code and generate a clean, professional flowchart instantly.
-- 🏗️ **Smart Project Builder**: Jumpstart your development by building complete project structures for Node.js, Python, and more with a single click.
-- 🤖 **AI Context Assistant**: Instantly copy your entire project or folder context to give to your favorite AI (ChatGPT, Claude, Gemini) for faster debugging and code generation.
-- 🧠 **Student-First Explanations**: Features a friendly "Teacher Persona" avatar that explains logic in plain English, perfect for clearing those "Ohhh, now I get it!" moments.
-- 📊 **Complexity Intelligence**: Automatic analysis of Time and Space complexity ($O(n)$, $O(log n)$, etc.) with simplified reasoning.
-- 🕹️ **Execution Control**: Play, Pause, and Step through your code logic at your own pace.
-- 🐍 **Multi-Language Support**: Works out of the box with **Python, Java, C++, C, JavaScript, and React**.
-- 📥 **Export for Assignments**: Download your flowcharts as high-quality SVGs to include in your lab reports or presentations.
+- **Visualize Algorithms**: Instantly convert code selections into interactive, animated flowcharts.
+- **Step-by-Step Execution**: Trace your logic line-by-line to see exactly how variables change and control flows.
+- **Loop Visualization**: Intuitively understand repetition with animated back-edges and iteration tracking.
+- **Complexity Analysis**: Built-in intelligence to identify Big-O notation (O(1), O(n), O(n²), etc.) for Time and Space.
+- **Broad Language Support**: Works seamlessly with **Python, Java, C, C++, JavaScript, TypeScript, and R**.
+- **Beginner-Friendly**: Includes plain-English explanations and a "Teacher Persona" to guide you through complex logic.
 
 ---
 
-## 🎓 Who is AlgoFlow for?
+## 🎥 Demo & Walkthrough
 
-- **CS Students** tackling Data Structures and Algorithms (DSA) for the first time.
-- **B.Tech Freshers** preparing for coding interviews and technical rounds.
-- **Self-Taught Developers** who want a visual way to debug complex logic.
-- **Educators** looking for a tool to demonstrate code execution to students.
+### 1. Visualize Your Logic
+![AlgoFlow Visualization](assets/AlgoFlow_Visualize_CLEAR.gif)
+*Select any block of code and watch it transform into a step-by-step flowchart.*
 
----
+### 2. Smart Project Builder
+![AlgoFlow Project Builder](assets/AlgoFlow_Build_Project_CLEAR.gif)
+*Start new learning projects instantly with pre-configured structures for different languages.*
 
-## 🛠️ How to Use
-
-1. **Select** a snippet of code (functions, loops, or logic blocks).
-2. **Right-click** and choose `AlgoFlow: Visualize Code Selection`.
-3. Use the **Sidebar Control Center** to play the animation or step through line-by-line.
-4. Check the **Complexity Sticky Note** for Big-O insights.
+### 3. Complexity Intelligence
+![AlgoFlow Complexity](assets/AlgoFlow_Complexity.gif)
+*Understand the efficiency of your code with automatic Big-O analysis and educational reasoning.*
 
 ---
 
-## 🏛️ Marketplace & Privacy
+## 🚀 Installation
 
-- 💰 **100% Free**: No subscriptions, no hidden costs.
-- 📡 **Offline First**: Works entirely on your local machine—no code ever leaves your editor.
-- 🚀 **Lightweight**: Fast performance without slowing down your VS Code experience.
+AlgoFlow is available directly from the **VS Code Marketplace**:
+
+1. Open VS Code.
+2. Go to the **Extensions** view (`Ctrl+Shift+X`).
+3. Search for **"AlgoFlow"**.
+4. Click **Install**.
 
 ---
+
+## 🛠️ Usage
+
+Mastering your algorithms is just a few clicks away:
+
+1. **Select** a snippet of code in your editor (e.g., a loop, a function, or a logic block).
+2. **Right-click** on the selection.
+3. Choose **"AlgoFlow: Visualize Code Selection"**.
+4. Use the **Sidebar Control Center** to play, pause, or step through the flowchart.
+5. Check the **Complexity Sticky Note** for Big-O insights.
+
+---
+
+## 🏛️ Branding & Vision
+
+AlgoFlow is **Built for Students & Beginners**. Our vision is to make computer science more approachable by providing tools that focus on the "Why" behind the logic. Every feature is designed with a learning-first mindset.
 
 ---
 

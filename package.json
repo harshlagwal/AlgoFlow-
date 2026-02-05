@@ -2,20 +2,34 @@
   "name": "algoflow",
   "displayName": "AlgoFlow",
   "description": "Visual Algorithms Made Simple",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "publisher": "harshlagwal",
+  "license": "MIT",
+  "homepage": "https://github.com/harshlagwal/AlgoFlow-",
   "repository": {
     "type": "git",
     "url": "https://github.com/harshlagwal/AlgoFlow-"
   },
   "icon": "media/logo.png",
+  "keywords": [
+    "algorithm",
+    "algorithms",
+    "flowchart",
+    "visualization",
+    "data structures",
+    "time complexity",
+    "space complexity",
+    "students",
+    "education",
+    "learning"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Education",
     "Visualization",
-    "Programming Languages"
+    "Other"
   ],
   "activationEvents": [
     "onLanguage:python",

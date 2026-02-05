@@ -1,84 +1,65 @@
 # ![AlgoFlow Logo](./media/logo.png)
 
-### Built for students — Visualize how code executes 🚀
+## 🚀 Visualize Your Logic, Master Your Algorithms
+
+**AlgoFlow** is an open-source VS Code extension built for **students, beginners, and B.Tech freshers** who want to stop "guessing" how their code works and start *seeing* it.
+
+Whether you're struggling with nested loops, recursion, or just want to understand the flow of a new script, AlgoFlow transforms your static code into **dynamic, step-by-step flowcharts** and provides a **Complexity Intelligence Engine** to help you write professional-grade code from day one.
 
 ---
 
-## 🧐 What is AlgoFlow?
+## 🎥 Demo Videos (AlgoFlow in Action)
 
-**AlgoFlow** is a powerful educational tool designed specifically for CS students and beginners. It transforms your static code into **animated flowcharts**, making it easy to understand the logic behind loops, conditions, and complex execution flows.
+### 1. Visualize Selected Logic
+![Visualize Logic](./assets/AlgoFlow_Visualize.gif)
+*Instantly transform any code selection into an interactive flowchart. Watch how the execution moves through conditions and loops in real-time.*
 
-Instead of just reading code, you can **watch it alive**. AlgoFlow provides step-by-step visualizations and teacher-style explanations, helping you bridge the gap between syntax and logic.
+### 2. Build Projects with Confidence
+![Build Project](./assets/AlgoFlow_Build_Project.gif)
+*Seamlessly integrate AlgoFlow into your development workflow. See how it handles multi-file structures and project-wide logic visualization.*
 
----
-
-## 🎥 Video Tutorials
-
-Watch AlgoFlow in action! These animations show how you can transform your learning experience.
-
-![Tutorial 1 – Visualizing Code](https://i.postimg.cc/zXJJrMtY/Algo-Flow-Visualize.gif)
-*Instantly convert complex logic into animated, step-by-step flowcharts.*
-
-![Tutorial 2 – Build Project](https://i.postimg.cc/x1XVjSKS/Algo-Flow-Buid-Project-2.gif)
-*See how to structure your project and navigate the AlgoFlow interface.*
+### 3. Complexity Intelligence Engine
+![Complexity Analysis](./assets/AlgoFlow_Complexity.gif)
+*Get instant Big-O analysis for your code. Our student-friendly engine explains not just the 'what' (Time & Space complexity) but also the 'why'.*
 
 ---
 
-## ✨ Key Features in Detail
+## ✨ Key Features
 
-*   🎨 **Real-Time Visualization**: Just select your code and right-click. AlgoFlow creates a clean, SVG-based flowchart that accurately represents your logic branches and loops.
-*   �️ **Interactive Control Center**: 
-    *   **Play/Pause**: Run the entire algorithm animation automatically.
-    *   **Step Discovery**: Go line-by-line to see exactly which variable changes when.
-    *   **Speed Control**: Switch between Slow (for deep learning) and Fast (for quick overviews).
-*   � **Loop Intelligence**: Visualizes loop-backs with animated arrows and iteration counters. No more guessing how many times your code repeats!
-*   � **Embedded Teacher Persona**: A cartoon avatar explains the "Why" behind every step, helping you understand concepts like recursion and conditional branching in plain English.
-*   💾 **Export & Share**: Download any flowchart as a high-quality SVG file. Perfect for college assignments, technical blogs, or study notes.
-*   📊 **Complexity Intelligence Engine**: Built-in Big-O analysis for both Time and Space. It identifies loops, nested structures, and recursion patterns to help you write more efficient code.
+- 🎨 **Real-Time Flowcharts**: Select any block of code and generate a clean, professional flowchart instantly.
+- 🧠 **Student-First Explanations**: Features a friendly "Teacher Persona" avatar that explains logic in plain English, perfect for clearing those "Ohhh, now I get it!" moments.
+- 📊 **Complexity Intelligence**: Automatic analysis of Time and Space complexity ($O(n)$, $O(log n)$, etc.) with simplified reasoning.
+- 🕹️ **Execution Control**: Play, Pause, and Step through your code logic at your own pace.
+- 🐍 **Multi-Language Support**: Works out of the box with **Python, Java, C++, C, JavaScript, and React**.
+- 📥 **Export for Assignments**: Download your flowcharts as high-quality SVGs to include in your lab reports or presentations.
 
 ---
 
-## 🚀 How to Use
+## 🎓 Who is AlgoFlow for?
 
-1.  **Select** a code block (Function, Loop, or Class) in your editor.
-2.  **Right-click** and select `AlgoFlow: Visualize Code Selection`.
-3.  Click the **Play** or **Step** button in the sidebar.
-4.  Observe the **flowchart** and follow the **avatar's explanations**.
-5.  Check the **Complexity Sticky Note** for a deep dive into efficiency.
-6.  **Download** the SVG if you want to save the visualization.
+- **CS Students** tackling Data Structures and Algorithms (DSA) for the first time.
+- **B.Tech Freshers** preparing for coding interviews and technical rounds.
+- **Self-Taught Developers** who want a visual way to debug complex logic.
+- **Educators** looking for a tool to demonstrate code execution to students.
 
 ---
 
-## 🛠️ Supported Languages
+## 🛠️ How to Use
 
-*   🐍 **Python** (range, lists, recursion)
-*   📜 **JavaScript** (arrays, push/pop, loops)
-*   ⌨️ **C / C++** (pointers, vectors, standard I/O)
-
----
-
-## 🧠 Complexity Engine
-
-AlgoFlow features a **Student-Aware Complexity Engine**. Unlike raw compilers, it analyzes the entire block context to provide accurate Big-O notation ($O(n)$, $O(n^2)$, $O(\log n)$, etc.) that matches how you are taught in class. It intelligently handles fixed-range loops as educational examples, ensuring you get the "Why" behind the math.
+1. **Select** a snippet of code (functions, loops, or logic blocks).
+2. **Right-click** and choose `AlgoFlow: Visualize Code Selection`.
+3. Use the **Sidebar Control Center** to play the animation or step through line-by-line.
+4. Check the **Complexity Sticky Note** for Big-O insights.
 
 ---
 
-## 🎓 Who is this for?
+## 🏛️ Marketplace & Privacy
 
-*   **Students** tackling Data Structures and Algorithms (DSA).
-*   **Beginners** who find loops or recursion confusing.
-*   **Teachers** looking for a visual aid to explain logic in class.
-*   **Visual Learners** who prefer diagrams over plain text.
-
----
-
-## 🏛️ Marketplace Details
-
-*   💰 **100% FREE**: No paid features, no subscriptions.
-*   🚫 **Privacy First**: No tracking or data collection.
-*   📡 **Works Offline**: Analyze your code anywhere, anytime.
-*   🚀 **Performance**: Lightweight and fast.
+- 💰 **100% Free**: No subscriptions, no hidden costs.
+- 📡 **Offline First**: Works entirely on your local machine—no code ever leaves your editor.
+- 🚀 **Lightweight**: Fast performance without slowing down your VS Code experience.
 
 ---
 
-**Built by Harsh Lagwal — for student beginners**
+**Built with ❤️ for the student community by [Harsh Lagwal](mailto:harshlagwal123@gmail.com)**
+

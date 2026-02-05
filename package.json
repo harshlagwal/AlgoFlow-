@@ -4,6 +4,10 @@
   "description": "Visual Algorithms Made Simple",
   "version": "0.1.0",
   "publisher": "harshlagwal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harshlagwal/AlgoFlow-"
+  },
   "icon": "media/logo.png",
   "engines": {
     "vscode": "^1.85.0"

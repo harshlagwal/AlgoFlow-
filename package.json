@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/harshlagwal/AlgoFlow-"
   },
+  "bugs": {
+    "url": "https://github.com/harshlagwal/AlgoFlow-/issues"
+  },
   "icon": "media/logo.png",
   "keywords": [
     "algorithm",
@@ -32,13 +35,15 @@
     "Other"
   ],
   "activationEvents": [
-    "onLanguage:python",
-    "onLanguage:java",
-    "onLanguage:c",
-    "onLanguage:cpp",
-    "onLanguage:javascript",
-    "onLanguage:typescript",
-    "onLanguage:r"
+    "onCommand:algoflow.visualize",
+    "onView:algoflow.sidebar"
+  ],
+  "files": [
+    "out",
+    "media",
+    "webview",
+    "README.md",
+    "LICENSE"
   ],
   "main": "./out/extension.js",
   "contributes": {

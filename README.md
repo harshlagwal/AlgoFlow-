@@ -1,9 +1,18 @@
-# ![AlgoFlow Logo](./media/logo.png)
+![AlgoFlow Logo](media/logo.png)
 
 # AlgoFlow
 ### Visual Algorithms Made Simple
 
 **AlgoFlow** is a powerful educational tool designed to help students and beginners master algorithms by seeing them in action. We transform complex logic into clear, animated flowcharts that bridge the gap between abstract code and visual understanding.
+
+Turn code into visual flowcharts directly inside VS Code.  
+Perfect for students, debugging, and learning algorithms visually.
+
+## 🚀 Quick Start
+1. Select any code in your editor  
+2. Right-click → AlgoFlow: Visualize Code Selection  
+3. Watch your logic turn into a step-by-step flowchart  
+
 
 ---
 
@@ -18,18 +27,18 @@
 
 ---
 
-## 🎥 Demo & Walkthrough
+## 🎬 See AlgoFlow in Action
 
 ### 1. Visualize Your Logic
-![AlgoFlow Visualization](assets/AlgoFlow_Visualize_CLEAR.gif)
+![AlgoFlow Visualization](./assets/AlgoFlow_Visualize_CLEAR.gif)
 *Select any block of code and watch it transform into a step-by-step flowchart.*
 
 ### 2. Smart Project Builder
-![AlgoFlow Project Builder](assets/AlgoFlow_Build_Project_CLEAR.gif)
+![AlgoFlow Project Builder](./assets/AlgoFlow_Build_Project_CLEAR.gif)
 *Start new learning projects instantly with pre-configured structures for different languages.*
 
 ### 3. Complexity Intelligence
-![AlgoFlow Complexity](assets/AlgoFlow_Complexity.gif)
+![AlgoFlow Complexity](./assets/AlgoFlow_Complexity.gif)
 *Understand the efficiency of your code with automatic Big-O analysis and educational reasoning.*
 
 ---

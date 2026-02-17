@@ -1,5 +1,3 @@
-![AlgoFlow Logo](media/logo.png)
-
 # AlgoFlow
 ### Visual Algorithms Made Simple
 

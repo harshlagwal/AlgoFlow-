@@ -34,7 +34,10 @@
     "Visualization",
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onCommand:algoflow.visualize",
+    "onView:algoflow.sidebar"
+  ],
   "files": [
     "out",
     "media",
